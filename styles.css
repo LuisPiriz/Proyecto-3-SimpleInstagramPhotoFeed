@@ -18,66 +18,24 @@ header {
     margin: 0;
     font-size: 30px;
 }
-#divdad > div {
+.divi {
+    background-color: white;
+    width: 40%;
+    margin: 60px auto;
     border-radius: 2px;
 }
-#div1 {
-    background-color: white;
-    width: 40%;
-    margin: 60px auto;
-}
-#div11 {
+.divtop {
     padding: 10px;
     display: flex;
 }
-#div11 h3 {
+.divtop h3 {
     width: 95%;
 }
-#div11 p {
+.divtop p {
     color: gray;
     float: right;
     padding-right: 10px;
 }
-#div13 {
-    padding: 10px;
-}
-#div2 {
-    background-color: white;
-    width: 40%;
-    margin: 60px auto;
-}
-#div21 {
-    padding: 10px;
-    display: flex;
-}
-#div21 h3 {
-    width: 95%;
-}
-#div21 p {
-    color: gray;
-    float: right;
-    padding-right: 10px;
-}
-#div23 {
-    padding: 10px;
-}
-#div3 {
-    background-color: white;
-    width: 40%;
-    margin: 60px auto;
-}
-#div31 {
-    padding: 10px;
-    display: flex;
-}
-#div31 h3 {
-    width: 95%;
-}
-#div31 p {
-    color: gray;
-    float: right;
-    padding-right: 10px;
-}
-#div33 {
+.divbot {
     padding: 10px;
 }
